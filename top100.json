@@ -1,0 +1,9198 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "title": "Crazy in Love",
+        "released": "2003-05-14"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "0"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "0"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "1"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "0"
+            },
+            {
+              "type": "Writer",
+              "id": "1"
+            },
+            {
+              "type": "Writer",
+              "id": "2"
+            },
+            {
+              "type": "Writer",
+              "id": "3"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Paper Planes",
+        "released": "2008-02-11"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "1"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "2"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "4"
+            },
+            {
+              "type": "Writer",
+              "id": "5"
+            },
+            {
+              "type": "Writer",
+              "id": "6"
+            },
+            {
+              "type": "Writer",
+              "id": "7"
+            },
+            {
+              "type": "Writer",
+              "id": "8"
+            },
+            {
+              "type": "Writer",
+              "id": "9"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Seven Nation Army",
+        "released": "2003-02-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "2"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "3"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "10"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hey Ya!",
+        "released": "2003-10-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "3"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "4"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "11"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "4"
+            },
+            {
+              "type": "Genre",
+              "id": "5"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "99 Problems",
+        "released": "2004-04-27"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "4"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "1"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "1"
+            },
+            {
+              "type": "Writer",
+              "id": "12"
+            },
+            {
+              "type": "Writer",
+              "id": "13"
+            },
+            {
+              "type": "Writer",
+              "id": "14"
+            },
+            {
+              "type": "Writer",
+              "id": "15"
+            },
+            {
+              "type": "Writer",
+              "id": "16"
+            },
+            {
+              "type": "Writer",
+              "id": "17"
+            },
+            {
+              "type": "Writer",
+              "id": "18"
+            },
+            {
+              "type": "Writer",
+              "id": "19"
+            },
+            {
+              "type": "Writer",
+              "id": "20"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Maps",
+        "released": "2003-10-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "5"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "5"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "21"
+            },
+            {
+              "type": "Writer",
+              "id": "22"
+            },
+            {
+              "type": "Writer",
+              "id": "23"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "7"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Runaway",
+        "released": "2010-10-04"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "6"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "6"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "7"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "24"
+            },
+            {
+              "type": "Writer",
+              "id": "25"
+            },
+            {
+              "type": "Writer",
+              "id": "26"
+            },
+            {
+              "type": "Writer",
+              "id": "27"
+            },
+            {
+              "type": "Writer",
+              "id": "28"
+            },
+            {
+              "type": "Writer",
+              "id": "29"
+            },
+            {
+              "type": "Writer",
+              "id": "30"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Rolling in the Deep",
+        "released": "2010-11-29"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "7"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "8"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "31"
+            },
+            {
+              "type": "Writer",
+              "id": "32"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Royals",
+        "released": "2013-06-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "8"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "9"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "33"
+            },
+            {
+              "type": "Writer",
+              "id": "34"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Last Nite",
+        "released": "2001-10-23"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "9"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "10"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "35"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "8"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Since U Been Gone",
+        "released": "2004-11-16"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "10"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "11"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "36"
+            },
+            {
+              "type": "Writer",
+              "id": "37"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Get Ur Freak On",
+        "released": "2001-03-13"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "11"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "12"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "38"
+            },
+            {
+              "type": "Writer",
+              "id": "39"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "10"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Alright",
+        "released": "2015-06-30"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "12"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "13"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "40"
+            },
+            {
+              "type": "Writer",
+              "id": "41"
+            },
+            {
+              "type": "Writer",
+              "id": "42"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Toxic",
+        "released": "2004-01-12"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "13"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "14"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "43"
+            },
+            {
+              "type": "Writer",
+              "id": "44"
+            },
+            {
+              "type": "Writer",
+              "id": "45"
+            },
+            {
+              "type": "Writer",
+              "id": "46"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Crazy",
+        "released": "2006-03-13"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "14"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "15"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "47"
+            },
+            {
+              "type": "Writer",
+              "id": "48"
+            },
+            {
+              "type": "Writer",
+              "id": "49"
+            },
+            {
+              "type": "Writer",
+              "id": "50"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "4"
+            },
+            {
+              "type": "Genre",
+              "id": "11"
+            },
+            {
+              "type": "Genre",
+              "id": "5"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            },
+            {
+              "type": "Genre",
+              "id": "4"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "All My Friends",
+        "released": "2007-05-28"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "15"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "16"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "51"
+            },
+            {
+              "type": "Writer",
+              "id": "52"
+            },
+            {
+              "type": "Writer",
+              "id": "53"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Work It",
+        "released": "2002-09-16"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "16"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "12"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "54"
+            },
+            {
+              "type": "Writer",
+              "id": "55"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Blackstar",
+        "released": "2015-11-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "17"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "17"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "56"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "12"
+            },
+            {
+              "type": "Genre",
+              "id": "13"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Dancing on My Own",
+        "released": "2010-04-20"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "18"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "18"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "57"
+            },
+            {
+              "type": "Writer",
+              "id": "58"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Rehab",
+        "released": "2006-10-23"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "19"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "19"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "59"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "4"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Bad Romance",
+        "released": "2009-10-19"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "20"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "20"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "60"
+            },
+            {
+              "type": "Writer",
+              "id": "61"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Take Me Out",
+        "released": "2004-01-12"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "21"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "21"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "62"
+            },
+            {
+              "type": "Writer",
+              "id": "63"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "7"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Ms. Jackson",
+        "released": "2000-10-24"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "22"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "4"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "64"
+            },
+            {
+              "type": "Writer",
+              "id": "65"
+            },
+            {
+              "type": "Writer",
+              "id": "66"
+            },
+            {
+              "type": "Writer",
+              "id": "67"
+            },
+            {
+              "type": "Writer",
+              "id": "68"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Lose Yourself",
+        "released": "2002-10-28"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "23"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "22"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "69"
+            },
+            {
+              "type": "Writer",
+              "id": "70"
+            },
+            {
+              "type": "Writer",
+              "id": "71"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Uptown Funk",
+        "released": "2014-11-10"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "24"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "23"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "24"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "72"
+            },
+            {
+              "type": "Writer",
+              "id": "73"
+            },
+            {
+              "type": "Writer",
+              "id": "74"
+            },
+            {
+              "type": "Writer",
+              "id": "26"
+            },
+            {
+              "type": "Writer",
+              "id": "75"
+            },
+            {
+              "type": "Writer",
+              "id": "76"
+            },
+            {
+              "type": "Writer",
+              "id": "77"
+            },
+            {
+              "type": "Writer",
+              "id": "78"
+            },
+            {
+              "type": "Writer",
+              "id": "79"
+            },
+            {
+              "type": "Writer",
+              "id": "80"
+            },
+            {
+              "type": "Writer",
+              "id": "81"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "14"
+            },
+            {
+              "type": "Genre",
+              "id": "15"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hotline Bling",
+        "released": "2015-07-31"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "25"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "25"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "82"
+            },
+            {
+              "type": "Writer",
+              "id": "83"
+            },
+            {
+              "type": "Writer",
+              "id": "84"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "B.O.B.",
+        "released": "2000-09-19"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "22"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "4"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "64"
+            },
+            {
+              "type": "Writer",
+              "id": "65"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            },
+            {
+              "type": "Genre",
+              "id": "16"
+            },
+            {
+              "type": "Genre",
+              "id": "17"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Umbrella",
+        "released": "2007-03-29"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "26"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "26"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "1"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "1"
+            },
+            {
+              "type": "Writer",
+              "id": "85"
+            },
+            {
+              "type": "Writer",
+              "id": "86"
+            },
+            {
+              "type": "Writer",
+              "id": "87"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "All Too Well",
+        "released": "2012-10-22"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "27"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "27"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "88"
+            },
+            {
+              "type": "Writer",
+              "id": "89"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "18"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Mississippi",
+        "released": "2001-09-11"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "28"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "28"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "90"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Wake Up",
+        "released": "2004-09-14"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "29"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "29"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "91"
+            },
+            {
+              "type": "Writer",
+              "id": "92"
+            },
+            {
+              "type": "Writer",
+              "id": "93"
+            },
+            {
+              "type": "Writer",
+              "id": "94"
+            },
+            {
+              "type": "Writer",
+              "id": "95"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "In Da Club",
+        "released": "2003-01-07"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "30"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "30"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "96"
+            },
+            {
+              "type": "Writer",
+              "id": "97"
+            },
+            {
+              "type": "Writer",
+              "id": "98"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Idioteque",
+        "released": "2000-10-02"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "31"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "31"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "99"
+            },
+            {
+              "type": "Writer",
+              "id": "100"
+            },
+            {
+              "type": "Writer",
+              "id": "101"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "11"
+            },
+            {
+              "type": "Genre",
+              "id": "11"
+            },
+            {
+              "type": "Genre",
+              "id": "19"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Mr. Brightside",
+        "released": "2003-09-29"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "32"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "32"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "102"
+            },
+            {
+              "type": "Writer",
+              "id": "103"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "20"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Blue Jeans",
+        "released": "2012-04-08"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "33"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "33"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "104"
+            },
+            {
+              "type": "Writer",
+              "id": "105"
+            },
+            {
+              "type": "Writer",
+              "id": "28"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "21"
+            },
+            {
+              "type": "Genre",
+              "id": "22"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Gold Digger",
+        "released": "2005-07-05"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "34"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "6"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "34"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "24"
+            },
+            {
+              "type": "Writer",
+              "id": "106"
+            },
+            {
+              "type": "Writer",
+              "id": "107"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "You Want It Darker",
+        "released": "2016-09-21"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "35"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "35"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "108"
+            },
+            {
+              "type": "Writer",
+              "id": "109"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "23"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "24"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Formation",
+        "released": "2016-02-06"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "36"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "36"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "0"
+            },
+            {
+              "type": "Writer",
+              "id": "110"
+            },
+            {
+              "type": "Writer",
+              "id": "111"
+            },
+            {
+              "type": "Writer",
+              "id": "112"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "6"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            },
+            {
+              "type": "Genre",
+              "id": "25"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "No One Knows",
+        "released": "2002-11-26"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "37"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "37"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "113"
+            },
+            {
+              "type": "Writer",
+              "id": "114"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Beautiful Day",
+        "released": "2000-10-09"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "38"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "38"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "115"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hurt",
+        "released": "2002-11-05"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "39"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "39"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "116"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Electric Feel",
+        "released": "2008-06-23"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "40"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "40"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "117"
+            },
+            {
+              "type": "Writer",
+              "id": "118"
+            },
+            {
+              "type": "Writer",
+              "id": "119"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Cranes in the Sky",
+        "released": "2016-10-05"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "41"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "41"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "120"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "1"
+            },
+            {
+              "type": "Genre",
+              "id": "4"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Stan",
+        "released": "2000-10-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "42"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "22"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "42"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "69"
+            },
+            {
+              "type": "Writer",
+              "id": "121"
+            },
+            {
+              "type": "Writer",
+              "id": "122"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "26"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Sorry",
+        "released": "2015-10-22"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "43"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "43"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "123"
+            },
+            {
+              "type": "Writer",
+              "id": "124"
+            },
+            {
+              "type": "Writer",
+              "id": "125"
+            },
+            {
+              "type": "Writer",
+              "id": "126"
+            },
+            {
+              "type": "Writer",
+              "id": "127"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "27"
+            },
+            {
+              "type": "Genre",
+              "id": "28"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Cry Me a River",
+        "released": "2002-11-25"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "44"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "44"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "128"
+            },
+            {
+              "type": "Writer",
+              "id": "129"
+            },
+            {
+              "type": "Writer",
+              "id": "130"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Redbone",
+        "released": "2016-11-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "45"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "45"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "131"
+            },
+            {
+              "type": "Writer",
+              "id": "132"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "5"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Happy",
+        "released": "2013-11-21"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "46"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "46"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "41"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "4"
+            },
+            {
+              "type": "Genre",
+              "id": "4"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Sign of the Times",
+        "released": "2017-04-07"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "47"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "47"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "133"
+            },
+            {
+              "type": "Writer",
+              "id": "134"
+            },
+            {
+              "type": "Writer",
+              "id": "135"
+            },
+            {
+              "type": "Writer",
+              "id": "136"
+            },
+            {
+              "type": "Writer",
+              "id": "26"
+            },
+            {
+              "type": "Writer",
+              "id": "137"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "The Scientist",
+        "released": "2002-11-11"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "48"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "48"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "138"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Single Ladies (Put a Ring on It)",
+        "released": "2008-10-13"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "49"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "36"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "0"
+            },
+            {
+              "type": "Writer",
+              "id": "139"
+            },
+            {
+              "type": "Writer",
+              "id": "140"
+            },
+            {
+              "type": "Writer",
+              "id": "141"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Chandelier",
+        "released": "2014-03-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "50"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "49"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "142"
+            },
+            {
+              "type": "Writer",
+              "id": "143"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Oblivion",
+        "released": "2012-01-31"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "51"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "50"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "144"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Portions for Foxes",
+        "released": "2004-08-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "52"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "51"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "145"
+            },
+            {
+              "type": "Writer",
+              "id": "146"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "29"
+            },
+            {
+              "type": "Genre",
+              "id": "30"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "212",
+        "released": "2011-12-06"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "53"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "52"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "53"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "147"
+            },
+            {
+              "type": "Writer",
+              "id": "148"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "27"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Weird Fishes/ Arpeggi",
+        "released": "2007-10-10"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "54"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "31"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "149"
+            },
+            {
+              "type": "Writer",
+              "id": "150"
+            },
+            {
+              "type": "Writer",
+              "id": "151"
+            },
+            {
+              "type": "Writer",
+              "id": "152"
+            },
+            {
+              "type": "Writer",
+              "id": "153"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "11"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Do You Realize??",
+        "released": "2002-08-19"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "55"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "54"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "154"
+            },
+            {
+              "type": "Writer",
+              "id": "155"
+            },
+            {
+              "type": "Writer",
+              "id": "156"
+            },
+            {
+              "type": "Writer",
+              "id": "157"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Ni**as in Paris",
+        "released": "2011-09-13"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "56"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "1"
+            },
+            {
+              "type": "Artist",
+              "id": "6"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "24"
+            },
+            {
+              "type": "Writer",
+              "id": "1"
+            },
+            {
+              "type": "Writer",
+              "id": "158"
+            },
+            {
+              "type": "Writer",
+              "id": "159"
+            },
+            {
+              "type": "Writer",
+              "id": "160"
+            },
+            {
+              "type": "Writer",
+              "id": "161"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Bodak Yellow",
+        "released": "2017-06-16"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "57"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "55"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "162"
+            },
+            {
+              "type": "Writer",
+              "id": "163"
+            },
+            {
+              "type": "Writer",
+              "id": "164"
+            },
+            {
+              "type": "Writer",
+              "id": "165"
+            },
+            {
+              "type": "Writer",
+              "id": "166"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "The Wire",
+        "released": "2013-08-09"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "58"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "56"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "167"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hung Up",
+        "released": "2005-10-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "59"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "57"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "168"
+            },
+            {
+              "type": "Writer",
+              "id": "169"
+            },
+            {
+              "type": "Writer",
+              "id": "170"
+            },
+            {
+              "type": "Writer",
+              "id": "171"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "31"
+            },
+            {
+              "type": "Genre",
+              "id": "32"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Teenage Dream",
+        "released": "2010-07-23"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "60"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "58"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "172"
+            },
+            {
+              "type": "Writer",
+              "id": "173"
+            },
+            {
+              "type": "Writer",
+              "id": "174"
+            },
+            {
+              "type": "Writer",
+              "id": "175"
+            },
+            {
+              "type": "Writer",
+              "id": "36"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Sugar, We’re Goin Down",
+        "released": "2005-04-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "61"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "59"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "176"
+            },
+            {
+              "type": "Writer",
+              "id": "177"
+            },
+            {
+              "type": "Writer",
+              "id": "178"
+            },
+            {
+              "type": "Writer",
+              "id": "179"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "7"
+            },
+            {
+              "type": "Genre",
+              "id": "33"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "DNA",
+        "released": "2017-04-14"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "62"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "13"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "40"
+            },
+            {
+              "type": "Writer",
+              "id": "180"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            },
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "We Found Love",
+        "released": "2011-09-22"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "63"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "26"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "60"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "181"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "27"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Beez in the Trap",
+        "released": "2012-05-29"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "64"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "61"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "62"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "182"
+            },
+            {
+              "type": "Writer",
+              "id": "183"
+            },
+            {
+              "type": "Writer",
+              "id": "184"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "What You Know",
+        "released": "2006-01-28"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "65"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "63"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "185"
+            },
+            {
+              "type": "Writer",
+              "id": "186"
+            },
+            {
+              "type": "Writer",
+              "id": "187"
+            },
+            {
+              "type": "Writer",
+              "id": "188"
+            },
+            {
+              "type": "Writer",
+              "id": "189"
+            },
+            {
+              "type": "Writer",
+              "id": "190"
+            },
+            {
+              "type": "Writer",
+              "id": "191"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Springsteen",
+        "released": "2012-02-21"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "66"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "64"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "192"
+            },
+            {
+              "type": "Writer",
+              "id": "193"
+            },
+            {
+              "type": "Writer",
+              "id": "194"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "18"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Thinkin Bout You",
+        "released": "2012-04-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "67"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "65"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "195"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "American Idiot",
+        "released": "2004-08-06"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "68"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "66"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "196"
+            },
+            {
+              "type": "Writer",
+              "id": "197"
+            },
+            {
+              "type": "Writer",
+              "id": "198"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "7"
+            },
+            {
+              "type": "Genre",
+              "id": "7"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Call Me Maybe",
+        "released": "2011-09-20"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "69"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "67"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "199"
+            },
+            {
+              "type": "Writer",
+              "id": "200"
+            },
+            {
+              "type": "Writer",
+              "id": "201"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Bad and Boujee",
+        "released": "2016-08-27"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "70"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "68"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "69"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "202"
+            },
+            {
+              "type": "Writer",
+              "id": "203"
+            },
+            {
+              "type": "Writer",
+              "id": "204"
+            },
+            {
+              "type": "Writer",
+              "id": "205"
+            },
+            {
+              "type": "Writer",
+              "id": "206"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "6"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "House of Jealous Lovers",
+        "released": "2002-03-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "71"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "70"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "207"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "7"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Letter From an Occupant",
+        "released": "2000-11-21"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "72"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "71"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "208"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "The House That Built Me",
+        "released": "2010-03-08"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "73"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "72"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "209"
+            },
+            {
+              "type": "Writer",
+              "id": "210"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "18"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Get Lucky",
+        "released": "2013-04-19"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "74"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "73"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "46"
+            },
+            {
+              "type": "Artist",
+              "id": "74"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "211"
+            },
+            {
+              "type": "Writer",
+              "id": "212"
+            },
+            {
+              "type": "Writer",
+              "id": "41"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "31"
+            },
+            {
+              "type": "Genre",
+              "id": "5"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Losing My Edge",
+        "released": "2002-07-08"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "75"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "16"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "53"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "7"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Young Folks",
+        "released": "2006-08-07"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "76"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "75"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "76"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "213"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Drop It Like It’s Hot",
+        "released": "2004-09-27"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "77"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "77"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "46"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "41"
+            },
+            {
+              "type": "Writer",
+              "id": "214"
+            },
+            {
+              "type": "Writer",
+              "id": "215"
+            },
+            {
+              "type": "Writer",
+              "id": "216"
+            },
+            {
+              "type": "Writer",
+              "id": "217"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Ante Up (Robbin-Hoodz Theory)",
+        "released": "2000-09-09"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "78"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "78"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "218"
+            },
+            {
+              "type": "Writer",
+              "id": "219"
+            },
+            {
+              "type": "Writer",
+              "id": "220"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hollaback Girl",
+        "released": "2005-03-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "79"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "79"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "221"
+            },
+            {
+              "type": "Writer",
+              "id": "216"
+            },
+            {
+              "type": "Writer",
+              "id": "41"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "New Slang",
+        "released": "2001-02-19"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "80"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "80"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "222"
+            },
+            {
+              "type": "Writer",
+              "id": "223"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "34"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Lost Cause",
+        "released": "2002-09-24"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "81"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "81"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "224"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "One More Time",
+        "released": "2000-11-13"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "82"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "73"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "211"
+            },
+            {
+              "type": "Writer",
+              "id": "225"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "27"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "My Shot",
+        "released": "2015-10-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "83"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "82"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "226"
+            },
+            {
+              "type": "Writer",
+              "id": "227"
+            },
+            {
+              "type": "Writer",
+              "id": "228"
+            },
+            {
+              "type": "Writer",
+              "id": "229"
+            },
+            {
+              "type": "Writer",
+              "id": "230"
+            },
+            {
+              "type": "Writer",
+              "id": "231"
+            },
+            {
+              "type": "Writer",
+              "id": "232"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "35"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "I Love It",
+        "released": "2012-05-09"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "84"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "83"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "84"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "233"
+            },
+            {
+              "type": "Writer",
+              "id": "234"
+            },
+            {
+              "type": "Writer",
+              "id": "58"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "9"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "We Belong Together",
+        "released": "2005-03-29"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "85"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "85"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "235"
+            },
+            {
+              "type": "Writer",
+              "id": "236"
+            },
+            {
+              "type": "Writer",
+              "id": "237"
+            },
+            {
+              "type": "Writer",
+              "id": "238"
+            },
+            {
+              "type": "Writer",
+              "id": "239"
+            },
+            {
+              "type": "Writer",
+              "id": "240"
+            },
+            {
+              "type": "Writer",
+              "id": "241"
+            },
+            {
+              "type": "Writer",
+              "id": "242"
+            },
+            {
+              "type": "Writer",
+              "id": "243"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "1"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hannah Hunt",
+        "released": "2013-05-14"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "86"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "86"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "244"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "29"
+            },
+            {
+              "type": "Genre",
+              "id": "30"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Hate to Say I Told You So",
+        "released": "2000-12-04"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "87"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "87"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "245"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "7"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "1 Thing",
+        "released": "2005-01-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "88"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "88"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "246"
+            },
+            {
+              "type": "Writer",
+              "id": "2"
+            },
+            {
+              "type": "Writer",
+              "id": "247"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "1"
+            },
+            {
+              "type": "Genre",
+              "id": "5"
+            },
+            {
+              "type": "Genre",
+              "id": "36"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Despacito (Remix)",
+        "released": "2017-04-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "89"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "89"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "90"
+            },
+            {
+              "type": "Artist",
+              "id": "43"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "248"
+            },
+            {
+              "type": "Writer",
+              "id": "249"
+            },
+            {
+              "type": "Writer",
+              "id": "123"
+            },
+            {
+              "type": "Writer",
+              "id": "250"
+            },
+            {
+              "type": "Writer",
+              "id": "251"
+            },
+            {
+              "type": "Writer",
+              "id": "252"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "37"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Stoned and Starving",
+        "released": "2012-01-01"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "90"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "91"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "253"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "I’m Not Okay (I Promise)",
+        "released": "2004-10-03"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "91"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "92"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "254"
+            },
+            {
+              "type": "Writer",
+              "id": "255"
+            },
+            {
+              "type": "Writer",
+              "id": "256"
+            },
+            {
+              "type": "Writer",
+              "id": "257"
+            },
+            {
+              "type": "Writer",
+              "id": "258"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "7"
+            },
+            {
+              "type": "Genre",
+              "id": "7"
+            },
+            {
+              "type": "Genre",
+              "id": "38"
+            },
+            {
+              "type": "Genre",
+              "id": "33"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Jesus Walks",
+        "released": "2004-05-25"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "92"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "6"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "24"
+            },
+            {
+              "type": "Writer",
+              "id": "259"
+            },
+            {
+              "type": "Writer",
+              "id": "260"
+            },
+            {
+              "type": "Writer",
+              "id": "261"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            },
+            {
+              "type": "Genre",
+              "id": "39"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Can’t Get You Out of My Head",
+        "released": "2001-09-08"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "93"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "93"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "43"
+            },
+            {
+              "type": "Writer",
+              "id": "262"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "9"
+            },
+            {
+              "type": "Genre",
+              "id": "0"
+            },
+            {
+              "type": "Genre",
+              "id": "40"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Tighten Up",
+        "released": "2010-04-17"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "94"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "94"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "263"
+            },
+            {
+              "type": "Writer",
+              "id": "264"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            },
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "1901",
+        "released": "2009-05-25"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "95"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "95"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "265"
+            },
+            {
+              "type": "Writer",
+              "id": "266"
+            },
+            {
+              "type": "Writer",
+              "id": "267"
+            },
+            {
+              "type": "Writer",
+              "id": "268"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "3"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Archie, Marry Me",
+        "released": "2014-07-22"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "96"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "96"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": []
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "269"
+            },
+            {
+              "type": "Writer",
+              "id": "270"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "0"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Int’l Players Anthem (I Choose You)",
+        "released": "2007-06-06"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "97"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "97"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "4"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "271"
+            },
+            {
+              "type": "Writer",
+              "id": "11"
+            },
+            {
+              "type": "Writer",
+              "id": "272"
+            },
+            {
+              "type": "Writer",
+              "id": "273"
+            },
+            {
+              "type": "Writer",
+              "id": "274"
+            },
+            {
+              "type": "Writer",
+              "id": "275"
+            },
+            {
+              "type": "Writer",
+              "id": "276"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "2"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    },
+    {
+      "attributes": {
+        "title": "Gasolina",
+        "released": "2004-11-01"
+      },
+      "relationships": {
+        "album": {
+          "data": {
+            "type": "Album",
+            "id": "98"
+          }
+        },
+        "artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "90"
+            }
+          ]
+        },
+        "featured_artists": {
+          "data": [
+            {
+              "type": "Artist",
+              "id": "98"
+            }
+          ]
+        },
+        "writers": {
+          "data": [
+            {
+              "type": "Writer",
+              "id": "248"
+            },
+            {
+              "type": "Writer",
+              "id": "277"
+            }
+          ]
+        },
+        "genres": {
+          "data": [
+            {
+              "type": "Genre",
+              "id": "37"
+            }
+          ]
+        }
+      },
+      "type": "Song"
+    }
+  ],
+  "included": [
+    {
+      "attributes": {
+        "name": "Dangerously in Love"
+      },
+      "type": "Album",
+      "id": "0"
+    },
+    {
+      "attributes": {
+        "name": "Kala"
+      },
+      "type": "Album",
+      "id": "1"
+    },
+    {
+      "attributes": {
+        "name": "Elephant"
+      },
+      "type": "Album",
+      "id": "2"
+    },
+    {
+      "attributes": {
+        "name": "Speakerboxxx / The Love Below"
+      },
+      "type": "Album",
+      "id": "3"
+    },
+    {
+      "attributes": {
+        "name": "The Black Album"
+      },
+      "type": "Album",
+      "id": "4"
+    },
+    {
+      "attributes": {
+        "name": "Fever to Tell"
+      },
+      "type": "Album",
+      "id": "5"
+    },
+    {
+      "attributes": {
+        "name": "My Beautiful Dark Twisted Fantasy"
+      },
+      "type": "Album",
+      "id": "6"
+    },
+    {
+      "attributes": {
+        "name": "21"
+      },
+      "type": "Album",
+      "id": "7"
+    },
+    {
+      "attributes": {
+        "name": "Pure Heroine"
+      },
+      "type": "Album",
+      "id": "8"
+    },
+    {
+      "attributes": {
+        "name": "Is This It"
+      },
+      "type": "Album",
+      "id": "9"
+    },
+    {
+      "attributes": {
+        "name": "Breakaway"
+      },
+      "type": "Album",
+      "id": "10"
+    },
+    {
+      "attributes": {
+        "name": "Miss E… So Addictive"
+      },
+      "type": "Album",
+      "id": "11"
+    },
+    {
+      "attributes": {
+        "name": "To Pimp a Butterfly"
+      },
+      "type": "Album",
+      "id": "12"
+    },
+    {
+      "attributes": {
+        "name": "In the Zone"
+      },
+      "type": "Album",
+      "id": "13"
+    },
+    {
+      "attributes": {
+        "name": "St. Elsewhere"
+      },
+      "type": "Album",
+      "id": "14"
+    },
+    {
+      "attributes": {
+        "name": "Sound of Silver"
+      },
+      "type": "Album",
+      "id": "15"
+    },
+    {
+      "attributes": {
+        "name": "Under Construction"
+      },
+      "type": "Album",
+      "id": "16"
+    },
+    {
+      "attributes": {
+        "name": "Blackstar"
+      },
+      "type": "Album",
+      "id": "17"
+    },
+    {
+      "attributes": {
+        "name": "Body Talk Pt. 1"
+      },
+      "type": "Album",
+      "id": "18"
+    },
+    {
+      "attributes": {
+        "name": "Back to Black"
+      },
+      "type": "Album",
+      "id": "19"
+    },
+    {
+      "attributes": {
+        "name": "The Fame Monster"
+      },
+      "type": "Album",
+      "id": "20"
+    },
+    {
+      "attributes": {
+        "name": "Franz Ferdinand"
+      },
+      "type": "Album",
+      "id": "21"
+    },
+    {
+      "attributes": {
+        "name": "Stankonia"
+      },
+      "type": "Album",
+      "id": "22"
+    },
+    {
+      "attributes": {
+        "name": "8 Mile: Music from and Inspired by the Motion Picture"
+      },
+      "type": "Album",
+      "id": "23"
+    },
+    {
+      "attributes": {
+        "name": "Uptown Special"
+      },
+      "type": "Album",
+      "id": "24"
+    },
+    {
+      "attributes": {
+        "name": "Views"
+      },
+      "type": "Album",
+      "id": "25"
+    },
+    {
+      "attributes": {
+        "name": "Good Girl Gone Bad"
+      },
+      "type": "Album",
+      "id": "26"
+    },
+    {
+      "attributes": {
+        "name": "Red"
+      },
+      "type": "Album",
+      "id": "27"
+    },
+    {
+      "attributes": {
+        "name": "Love and Theft"
+      },
+      "type": "Album",
+      "id": "28"
+    },
+    {
+      "attributes": {
+        "name": "Funeral"
+      },
+      "type": "Album",
+      "id": "29"
+    },
+    {
+      "attributes": {
+        "name": "Get Rich or Die Tryin’"
+      },
+      "type": "Album",
+      "id": "30"
+    },
+    {
+      "attributes": {
+        "name": "Kid A"
+      },
+      "type": "Album",
+      "id": "31"
+    },
+    {
+      "attributes": {
+        "name": "Hot Fuss"
+      },
+      "type": "Album",
+      "id": "32"
+    },
+    {
+      "attributes": {
+        "name": "Born to Die"
+      },
+      "type": "Album",
+      "id": "33"
+    },
+    {
+      "attributes": {
+        "name": "Late Registration"
+      },
+      "type": "Album",
+      "id": "34"
+    },
+    {
+      "attributes": {
+        "name": "You Want It Darker"
+      },
+      "type": "Album",
+      "id": "35"
+    },
+    {
+      "attributes": {
+        "name": "Lemonade"
+      },
+      "type": "Album",
+      "id": "36"
+    },
+    {
+      "attributes": {
+        "name": "Songs for the Deaf"
+      },
+      "type": "Album",
+      "id": "37"
+    },
+    {
+      "attributes": {
+        "name": "All That You Can’t Leave Behind"
+      },
+      "type": "Album",
+      "id": "38"
+    },
+    {
+      "attributes": {
+        "name": "American IV: The Man Comes Around"
+      },
+      "type": "Album",
+      "id": "39"
+    },
+    {
+      "attributes": {
+        "name": "Oracular Spectacular"
+      },
+      "type": "Album",
+      "id": "40"
+    },
+    {
+      "attributes": {
+        "name": "A Seat at the Table"
+      },
+      "type": "Album",
+      "id": "41"
+    },
+    {
+      "attributes": {
+        "name": "The Marshall Mathers LP"
+      },
+      "type": "Album",
+      "id": "42"
+    },
+    {
+      "attributes": {
+        "name": "Purpose"
+      },
+      "type": "Album",
+      "id": "43"
+    },
+    {
+      "attributes": {
+        "name": "Justified"
+      },
+      "type": "Album",
+      "id": "44"
+    },
+    {
+      "attributes": {
+        "name": "Awaken, My Love!"
+      },
+      "type": "Album",
+      "id": "45"
+    },
+    {
+      "attributes": {
+        "name": "Girl"
+      },
+      "type": "Album",
+      "id": "46"
+    },
+    {
+      "attributes": {
+        "name": "Harry Styles"
+      },
+      "type": "Album",
+      "id": "47"
+    },
+    {
+      "attributes": {
+        "name": "A Rush of Blood to the Head"
+      },
+      "type": "Album",
+      "id": "48"
+    },
+    {
+      "attributes": {
+        "name": "I Am… Sasha Fierce"
+      },
+      "type": "Album",
+      "id": "49"
+    },
+    {
+      "attributes": {
+        "name": "1000 Forms of Fear"
+      },
+      "type": "Album",
+      "id": "50"
+    },
+    {
+      "attributes": {
+        "name": "Visions"
+      },
+      "type": "Album",
+      "id": "51"
+    },
+    {
+      "attributes": {
+        "name": "More Adventurous"
+      },
+      "type": "Album",
+      "id": "52"
+    },
+    {
+      "attributes": {
+        "name": "1991"
+      },
+      "type": "Album",
+      "id": "53"
+    },
+    {
+      "attributes": {
+        "name": "In Rainbows"
+      },
+      "type": "Album",
+      "id": "54"
+    },
+    {
+      "attributes": {
+        "name": "Yoshimi Battles the Pink Robots"
+      },
+      "type": "Album",
+      "id": "55"
+    },
+    {
+      "attributes": {
+        "name": "Watch the Throne"
+      },
+      "type": "Album",
+      "id": "56"
+    },
+    {
+      "attributes": {
+        "name": "Invasion of Privacy"
+      },
+      "type": "Album",
+      "id": "57"
+    },
+    {
+      "attributes": {
+        "name": "Days Are Gone"
+      },
+      "type": "Album",
+      "id": "58"
+    },
+    {
+      "attributes": {
+        "name": "Confessions on a Dance Floor"
+      },
+      "type": "Album",
+      "id": "59"
+    },
+    {
+      "attributes": {
+        "name": "Teenage Dream"
+      },
+      "type": "Album",
+      "id": "60"
+    },
+    {
+      "attributes": {
+        "name": "From Under the Cork Tree"
+      },
+      "type": "Album",
+      "id": "61"
+    },
+    {
+      "attributes": {
+        "name": "DAMN"
+      },
+      "type": "Album",
+      "id": "62"
+    },
+    {
+      "attributes": {
+        "name": "Talk That Talk"
+      },
+      "type": "Album",
+      "id": "63"
+    },
+    {
+      "attributes": {
+        "name": "Pink Friday: Roman Reloaded"
+      },
+      "type": "Album",
+      "id": "64"
+    },
+    {
+      "attributes": {
+        "name": "King"
+      },
+      "type": "Album",
+      "id": "65"
+    },
+    {
+      "attributes": {
+        "name": "Chief"
+      },
+      "type": "Album",
+      "id": "66"
+    },
+    {
+      "attributes": {
+        "name": "Channel Orange"
+      },
+      "type": "Album",
+      "id": "67"
+    },
+    {
+      "attributes": {
+        "name": "American Idiot"
+      },
+      "type": "Album",
+      "id": "68"
+    },
+    {
+      "attributes": {
+        "name": "Kiss"
+      },
+      "type": "Album",
+      "id": "69"
+    },
+    {
+      "attributes": {
+        "name": "Culture"
+      },
+      "type": "Album",
+      "id": "70"
+    },
+    {
+      "attributes": {
+        "name": "Echoes"
+      },
+      "type": "Album",
+      "id": "71"
+    },
+    {
+      "attributes": {
+        "name": "Mass Romantic"
+      },
+      "type": "Album",
+      "id": "72"
+    },
+    {
+      "attributes": {
+        "name": "Revolution"
+      },
+      "type": "Album",
+      "id": "73"
+    },
+    {
+      "attributes": {
+        "name": "Random Access Memories"
+      },
+      "type": "Album",
+      "id": "74"
+    },
+    {
+      "attributes": {
+        "name": "LCD Soundsystem"
+      },
+      "type": "Album",
+      "id": "75"
+    },
+    {
+      "attributes": {
+        "name": "Writer’s Block"
+      },
+      "type": "Album",
+      "id": "76"
+    },
+    {
+      "attributes": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece"
+      },
+      "type": "Album",
+      "id": "77"
+    },
+    {
+      "attributes": {
+        "name": "Warriorz"
+      },
+      "type": "Album",
+      "id": "78"
+    },
+    {
+      "attributes": {
+        "name": "Love. Angel. Music. Baby."
+      },
+      "type": "Album",
+      "id": "79"
+    },
+    {
+      "attributes": {
+        "name": "Oh, Inverted World"
+      },
+      "type": "Album",
+      "id": "80"
+    },
+    {
+      "attributes": {
+        "name": "Sea Change"
+      },
+      "type": "Album",
+      "id": "81"
+    },
+    {
+      "attributes": {
+        "name": "Discovery"
+      },
+      "type": "Album",
+      "id": "82"
+    },
+    {
+      "attributes": {
+        "name": "Hamilton"
+      },
+      "type": "Album",
+      "id": "83"
+    },
+    {
+      "attributes": {
+        "name": "Icona Pop"
+      },
+      "type": "Album",
+      "id": "84"
+    },
+    {
+      "attributes": {
+        "name": "The Emancipation of Mimi"
+      },
+      "type": "Album",
+      "id": "85"
+    },
+    {
+      "attributes": {
+        "name": "Modern Vampires of the City"
+      },
+      "type": "Album",
+      "id": "86"
+    },
+    {
+      "attributes": {
+        "name": "Veni Vidi Vicious"
+      },
+      "type": "Album",
+      "id": "87"
+    },
+    {
+      "attributes": {
+        "name": "Touch"
+      },
+      "type": "Album",
+      "id": "88"
+    },
+    {
+      "attributes": {
+        "name": "Shape of Pop"
+      },
+      "type": "Album",
+      "id": "89"
+    },
+    {
+      "attributes": {
+        "name": "Light Up Gold"
+      },
+      "type": "Album",
+      "id": "90"
+    },
+    {
+      "attributes": {
+        "name": "Three Cheers for Sweet Revenge"
+      },
+      "type": "Album",
+      "id": "91"
+    },
+    {
+      "attributes": {
+        "name": "The College Dropout"
+      },
+      "type": "Album",
+      "id": "92"
+    },
+    {
+      "attributes": {
+        "name": "Fever"
+      },
+      "type": "Album",
+      "id": "93"
+    },
+    {
+      "attributes": {
+        "name": "Brothers"
+      },
+      "type": "Album",
+      "id": "94"
+    },
+    {
+      "attributes": {
+        "name": "Wolfgang Amadeus Phoenix"
+      },
+      "type": "Album",
+      "id": "95"
+    },
+    {
+      "attributes": {
+        "name": "Alvvays"
+      },
+      "type": "Album",
+      "id": "96"
+    },
+    {
+      "attributes": {
+        "name": "Underground Kingz"
+      },
+      "type": "Album",
+      "id": "97"
+    },
+    {
+      "attributes": {
+        "name": "Barrio Fino"
+      },
+      "type": "Album",
+      "id": "98"
+    },
+    {
+      "attributes": {
+        "name": "Beyonce"
+      },
+      "type": "Artist",
+      "id": "0"
+    },
+    {
+      "attributes": {
+        "name": "Jay-Z"
+      },
+      "type": "Artist",
+      "id": "1"
+    },
+    {
+      "attributes": {
+        "name": "M.I.A"
+      },
+      "type": "Artist",
+      "id": "2"
+    },
+    {
+      "attributes": {
+        "name": "The White Stripes"
+      },
+      "type": "Artist",
+      "id": "3"
+    },
+    {
+      "attributes": {
+        "name": "Outkast"
+      },
+      "type": "Artist",
+      "id": "4"
+    },
+    {
+      "attributes": {
+        "name": "Yeah Yeah Yeahs"
+      },
+      "type": "Artist",
+      "id": "5"
+    },
+    {
+      "attributes": {
+        "name": "Kanye West"
+      },
+      "type": "Artist",
+      "id": "6"
+    },
+    {
+      "attributes": {
+        "name": "Pusha T"
+      },
+      "type": "Artist",
+      "id": "7"
+    },
+    {
+      "attributes": {
+        "name": "Adele"
+      },
+      "type": "Artist",
+      "id": "8"
+    },
+    {
+      "attributes": {
+        "name": "Lorde"
+      },
+      "type": "Artist",
+      "id": "9"
+    },
+    {
+      "attributes": {
+        "name": "The Strokes"
+      },
+      "type": "Artist",
+      "id": "10"
+    },
+    {
+      "attributes": {
+        "name": "Kelly Clarkson"
+      },
+      "type": "Artist",
+      "id": "11"
+    },
+    {
+      "attributes": {
+        "name": "Missy Elliott"
+      },
+      "type": "Artist",
+      "id": "12"
+    },
+    {
+      "attributes": {
+        "name": "Kendrick Lamar"
+      },
+      "type": "Artist",
+      "id": "13"
+    },
+    {
+      "attributes": {
+        "name": "Britney Spears"
+      },
+      "type": "Artist",
+      "id": "14"
+    },
+    {
+      "attributes": {
+        "name": "Gnarls Barkley"
+      },
+      "type": "Artist",
+      "id": "15"
+    },
+    {
+      "attributes": {
+        "name": "LCD Soundsystem"
+      },
+      "type": "Artist",
+      "id": "16"
+    },
+    {
+      "attributes": {
+        "name": "David Bowie"
+      },
+      "type": "Artist",
+      "id": "17"
+    },
+    {
+      "attributes": {
+        "name": "Robyn"
+      },
+      "type": "Artist",
+      "id": "18"
+    },
+    {
+      "attributes": {
+        "name": "Amy Winehouse"
+      },
+      "type": "Artist",
+      "id": "19"
+    },
+    {
+      "attributes": {
+        "name": "Lady Gaga"
+      },
+      "type": "Artist",
+      "id": "20"
+    },
+    {
+      "attributes": {
+        "name": "Franz Ferdinand"
+      },
+      "type": "Artist",
+      "id": "21"
+    },
+    {
+      "attributes": {
+        "name": "Eminem"
+      },
+      "type": "Artist",
+      "id": "22"
+    },
+    {
+      "attributes": {
+        "name": "Mark Ronson"
+      },
+      "type": "Artist",
+      "id": "23"
+    },
+    {
+      "attributes": {
+        "name": "Bruno Mars"
+      },
+      "type": "Artist",
+      "id": "24"
+    },
+    {
+      "attributes": {
+        "name": "Drake"
+      },
+      "type": "Artist",
+      "id": "25"
+    },
+    {
+      "attributes": {
+        "name": "Rihanna"
+      },
+      "type": "Artist",
+      "id": "26"
+    },
+    {
+      "attributes": {
+        "name": "Taylor Swift"
+      },
+      "type": "Artist",
+      "id": "27"
+    },
+    {
+      "attributes": {
+        "name": "Bob Dylan"
+      },
+      "type": "Artist",
+      "id": "28"
+    },
+    {
+      "attributes": {
+        "name": "Arcade Fire"
+      },
+      "type": "Artist",
+      "id": "29"
+    },
+    {
+      "attributes": {
+        "name": "50 Cent"
+      },
+      "type": "Artist",
+      "id": "30"
+    },
+    {
+      "attributes": {
+        "name": "Radiohead"
+      },
+      "type": "Artist",
+      "id": "31"
+    },
+    {
+      "attributes": {
+        "name": "The Killers"
+      },
+      "type": "Artist",
+      "id": "32"
+    },
+    {
+      "attributes": {
+        "name": "Lana Del Rey"
+      },
+      "type": "Artist",
+      "id": "33"
+    },
+    {
+      "attributes": {
+        "name": "Jamie Foxx"
+      },
+      "type": "Artist",
+      "id": "34"
+    },
+    {
+      "attributes": {
+        "name": "Leonard Cohen"
+      },
+      "type": "Artist",
+      "id": "35"
+    },
+    {
+      "attributes": {
+        "name": "Beyoncé"
+      },
+      "type": "Artist",
+      "id": "36"
+    },
+    {
+      "attributes": {
+        "name": "Queens of the Stone Age"
+      },
+      "type": "Artist",
+      "id": "37"
+    },
+    {
+      "attributes": {
+        "name": "U2"
+      },
+      "type": "Artist",
+      "id": "38"
+    },
+    {
+      "attributes": {
+        "name": "Johnny Cash"
+      },
+      "type": "Artist",
+      "id": "39"
+    },
+    {
+      "attributes": {
+        "name": "MGMT"
+      },
+      "type": "Artist",
+      "id": "40"
+    },
+    {
+      "attributes": {
+        "name": "Solange"
+      },
+      "type": "Artist",
+      "id": "41"
+    },
+    {
+      "attributes": {
+        "name": "Dido"
+      },
+      "type": "Artist",
+      "id": "42"
+    },
+    {
+      "attributes": {
+        "name": "Justin Bieber"
+      },
+      "type": "Artist",
+      "id": "43"
+    },
+    {
+      "attributes": {
+        "name": "Justin Timberlake"
+      },
+      "type": "Artist",
+      "id": "44"
+    },
+    {
+      "attributes": {
+        "name": "Childish Gambino"
+      },
+      "type": "Artist",
+      "id": "45"
+    },
+    {
+      "attributes": {
+        "name": "Pharrell Williams"
+      },
+      "type": "Artist",
+      "id": "46"
+    },
+    {
+      "attributes": {
+        "name": "Harry Styles"
+      },
+      "type": "Artist",
+      "id": "47"
+    },
+    {
+      "attributes": {
+        "name": "Coldplay"
+      },
+      "type": "Artist",
+      "id": "48"
+    },
+    {
+      "attributes": {
+        "name": "Sia"
+      },
+      "type": "Artist",
+      "id": "49"
+    },
+    {
+      "attributes": {
+        "name": "Grimes"
+      },
+      "type": "Artist",
+      "id": "50"
+    },
+    {
+      "attributes": {
+        "name": "Rilo Kiley"
+      },
+      "type": "Artist",
+      "id": "51"
+    },
+    {
+      "attributes": {
+        "name": "Azealia Banks"
+      },
+      "type": "Artist",
+      "id": "52"
+    },
+    {
+      "attributes": {
+        "name": "Lazy Jay"
+      },
+      "type": "Artist",
+      "id": "53"
+    },
+    {
+      "attributes": {
+        "name": "The Flaming Lips"
+      },
+      "type": "Artist",
+      "id": "54"
+    },
+    {
+      "attributes": {
+        "name": "Cardi B"
+      },
+      "type": "Artist",
+      "id": "55"
+    },
+    {
+      "attributes": {
+        "name": "Haim"
+      },
+      "type": "Artist",
+      "id": "56"
+    },
+    {
+      "attributes": {
+        "name": "Madonna"
+      },
+      "type": "Artist",
+      "id": "57"
+    },
+    {
+      "attributes": {
+        "name": "Katy Perry"
+      },
+      "type": "Artist",
+      "id": "58"
+    },
+    {
+      "attributes": {
+        "name": "Fall Out Boy"
+      },
+      "type": "Artist",
+      "id": "59"
+    },
+    {
+      "attributes": {
+        "name": "Calvin Harris"
+      },
+      "type": "Artist",
+      "id": "60"
+    },
+    {
+      "attributes": {
+        "name": "Nicki Minaj"
+      },
+      "type": "Artist",
+      "id": "61"
+    },
+    {
+      "attributes": {
+        "name": "2 Chainz"
+      },
+      "type": "Artist",
+      "id": "62"
+    },
+    {
+      "attributes": {
+        "name": "T.I"
+      },
+      "type": "Artist",
+      "id": "63"
+    },
+    {
+      "attributes": {
+        "name": "Eric Church"
+      },
+      "type": "Artist",
+      "id": "64"
+    },
+    {
+      "attributes": {
+        "name": "Frank Ocean"
+      },
+      "type": "Artist",
+      "id": "65"
+    },
+    {
+      "attributes": {
+        "name": "Green Day"
+      },
+      "type": "Artist",
+      "id": "66"
+    },
+    {
+      "attributes": {
+        "name": "Carly Rae Jepsen"
+      },
+      "type": "Artist",
+      "id": "67"
+    },
+    {
+      "attributes": {
+        "name": "Migos"
+      },
+      "type": "Artist",
+      "id": "68"
+    },
+    {
+      "attributes": {
+        "name": "Lil Uzi Vert"
+      },
+      "type": "Artist",
+      "id": "69"
+    },
+    {
+      "attributes": {
+        "name": "The Rapture"
+      },
+      "type": "Artist",
+      "id": "70"
+    },
+    {
+      "attributes": {
+        "name": "The New Pornographers"
+      },
+      "type": "Artist",
+      "id": "71"
+    },
+    {
+      "attributes": {
+        "name": "Miranda Lambert"
+      },
+      "type": "Artist",
+      "id": "72"
+    },
+    {
+      "attributes": {
+        "name": "Daft Punk"
+      },
+      "type": "Artist",
+      "id": "73"
+    },
+    {
+      "attributes": {
+        "name": "Nile Rodgers"
+      },
+      "type": "Artist",
+      "id": "74"
+    },
+    {
+      "attributes": {
+        "name": "Peter Bjorn and John"
+      },
+      "type": "Artist",
+      "id": "75"
+    },
+    {
+      "attributes": {
+        "name": "Victoria Bergsman"
+      },
+      "type": "Artist",
+      "id": "76"
+    },
+    {
+      "attributes": {
+        "name": "Snoop Dogg"
+      },
+      "type": "Artist",
+      "id": "77"
+    },
+    {
+      "attributes": {
+        "name": "M.O.P"
+      },
+      "type": "Artist",
+      "id": "78"
+    },
+    {
+      "attributes": {
+        "name": "Gwen Stefani"
+      },
+      "type": "Artist",
+      "id": "79"
+    },
+    {
+      "attributes": {
+        "name": "The Shins"
+      },
+      "type": "Artist",
+      "id": "80"
+    },
+    {
+      "attributes": {
+        "name": "Beck"
+      },
+      "type": "Artist",
+      "id": "81"
+    },
+    {
+      "attributes": {
+        "name": "Original Broadway Cast of ‘Hamilton’"
+      },
+      "type": "Artist",
+      "id": "82"
+    },
+    {
+      "attributes": {
+        "name": "Icona Pop"
+      },
+      "type": "Artist",
+      "id": "83"
+    },
+    {
+      "attributes": {
+        "name": "Charli XCX"
+      },
+      "type": "Artist",
+      "id": "84"
+    },
+    {
+      "attributes": {
+        "name": "Mariah Carey"
+      },
+      "type": "Artist",
+      "id": "85"
+    },
+    {
+      "attributes": {
+        "name": "Vampire Weekend"
+      },
+      "type": "Artist",
+      "id": "86"
+    },
+    {
+      "attributes": {
+        "name": "The Hives"
+      },
+      "type": "Artist",
+      "id": "87"
+    },
+    {
+      "attributes": {
+        "name": "Amerie"
+      },
+      "type": "Artist",
+      "id": "88"
+    },
+    {
+      "attributes": {
+        "name": "Luis Fonsi"
+      },
+      "type": "Artist",
+      "id": "89"
+    },
+    {
+      "attributes": {
+        "name": "Daddy Yankee"
+      },
+      "type": "Artist",
+      "id": "90"
+    },
+    {
+      "attributes": {
+        "name": "Parquet Courts"
+      },
+      "type": "Artist",
+      "id": "91"
+    },
+    {
+      "attributes": {
+        "name": "My Chemical Romance"
+      },
+      "type": "Artist",
+      "id": "92"
+    },
+    {
+      "attributes": {
+        "name": "Kylie Minogue"
+      },
+      "type": "Artist",
+      "id": "93"
+    },
+    {
+      "attributes": {
+        "name": "The Black Keys"
+      },
+      "type": "Artist",
+      "id": "94"
+    },
+    {
+      "attributes": {
+        "name": "Phoenix"
+      },
+      "type": "Artist",
+      "id": "95"
+    },
+    {
+      "attributes": {
+        "name": "Alvvays"
+      },
+      "type": "Artist",
+      "id": "96"
+    },
+    {
+      "attributes": {
+        "name": "UGK"
+      },
+      "type": "Artist",
+      "id": "97"
+    },
+    {
+      "attributes": {
+        "name": "Glory"
+      },
+      "type": "Artist",
+      "id": "98"
+    },
+    {
+      "attributes": {
+        "name": "pop"
+      },
+      "type": "Genre",
+      "id": "0"
+    },
+    {
+      "attributes": {
+        "name": "r&b"
+      },
+      "type": "Genre",
+      "id": "1"
+    },
+    {
+      "attributes": {
+        "name": "hip-hop"
+      },
+      "type": "Genre",
+      "id": "2"
+    },
+    {
+      "attributes": {
+        "name": "rock"
+      },
+      "type": "Genre",
+      "id": "3"
+    },
+    {
+      "attributes": {
+        "name": "soul"
+      },
+      "type": "Genre",
+      "id": "4"
+    },
+    {
+      "attributes": {
+        "name": "funk"
+      },
+      "type": "Genre",
+      "id": "5"
+    },
+    {
+      "attributes": {
+        "name": "rap"
+      },
+      "type": "Genre",
+      "id": "6"
+    },
+    {
+      "attributes": {
+        "name": "punk"
+      },
+      "type": "Genre",
+      "id": "7"
+    },
+    {
+      "attributes": {
+        "name": "revival"
+      },
+      "type": "Genre",
+      "id": "8"
+    },
+    {
+      "attributes": {
+        "name": "dance"
+      },
+      "type": "Genre",
+      "id": "9"
+    },
+    {
+      "attributes": {
+        "name": "bhangra"
+      },
+      "type": "Genre",
+      "id": "10"
+    },
+    {
+      "attributes": {
+        "name": "electronic"
+      },
+      "type": "Genre",
+      "id": "11"
+    },
+    {
+      "attributes": {
+        "name": "avant-garde"
+      },
+      "type": "Genre",
+      "id": "12"
+    },
+    {
+      "attributes": {
+        "name": "jazznu jazz"
+      },
+      "type": "Genre",
+      "id": "13"
+    },
+    {
+      "attributes": {
+        "name": "minneapolis sound"
+      },
+      "type": "Genre",
+      "id": "14"
+    },
+    {
+      "attributes": {
+        "name": "boogie"
+      },
+      "type": "Genre",
+      "id": "15"
+    },
+    {
+      "attributes": {
+        "name": "drum"
+      },
+      "type": "Genre",
+      "id": "16"
+    },
+    {
+      "attributes": {
+        "name": "bass"
+      },
+      "type": "Genre",
+      "id": "17"
+    },
+    {
+      "attributes": {
+        "name": "country"
+      },
+      "type": "Genre",
+      "id": "18"
+    },
+    {
+      "attributes": {
+        "name": "experimental"
+      },
+      "type": "Genre",
+      "id": "19"
+    },
+    {
+      "attributes": {
+        "name": "new wave"
+      },
+      "type": "Genre",
+      "id": "20"
+    },
+    {
+      "attributes": {
+        "name": "sadcore"
+      },
+      "type": "Genre",
+      "id": "21"
+    },
+    {
+      "attributes": {
+        "name": "trip hop"
+      },
+      "type": "Genre",
+      "id": "22"
+    },
+    {
+      "attributes": {
+        "name": "blues"
+      },
+      "type": "Genre",
+      "id": "23"
+    },
+    {
+      "attributes": {
+        "name": "spoken word"
+      },
+      "type": "Genre",
+      "id": "24"
+    },
+    {
+      "attributes": {
+        "name": "bounce"
+      },
+      "type": "Genre",
+      "id": "25"
+    },
+    {
+      "attributes": {
+        "name": "horrorcore"
+      },
+      "type": "Genre",
+      "id": "26"
+    },
+    {
+      "attributes": {
+        "name": "house"
+      },
+      "type": "Genre",
+      "id": "27"
+    },
+    {
+      "attributes": {
+        "name": "moombahton"
+      },
+      "type": "Genre",
+      "id": "28"
+    },
+    {
+      "attributes": {
+        "name": "alternative"
+      },
+      "type": "Genre",
+      "id": "29"
+    },
+    {
+      "attributes": {
+        "name": "indie"
+      },
+      "type": "Genre",
+      "id": "30"
+    },
+    {
+      "attributes": {
+        "name": "disco"
+      },
+      "type": "Genre",
+      "id": "31"
+    },
+    {
+      "attributes": {
+        "name": "nu-disco"
+      },
+      "type": "Genre",
+      "id": "32"
+    },
+    {
+      "attributes": {
+        "name": "emo"
+      },
+      "type": "Genre",
+      "id": "33"
+    },
+    {
+      "attributes": {
+        "name": "folk"
+      },
+      "type": "Genre",
+      "id": "34"
+    },
+    {
+      "attributes": {
+        "name": "show tune"
+      },
+      "type": "Genre",
+      "id": "35"
+    },
+    {
+      "attributes": {
+        "name": "go-go"
+      },
+      "type": "Genre",
+      "id": "36"
+    },
+    {
+      "attributes": {
+        "name": "reggaeton"
+      },
+      "type": "Genre",
+      "id": "37"
+    },
+    {
+      "attributes": {
+        "name": "post-hardcore"
+      },
+      "type": "Genre",
+      "id": "38"
+    },
+    {
+      "attributes": {
+        "name": "gospel"
+      },
+      "type": "Genre",
+      "id": "39"
+    },
+    {
+      "attributes": {
+        "name": "neo-disco"
+      },
+      "type": "Genre",
+      "id": "40"
+    },
+    {
+      "attributes": {
+        "name": "Beyoncé"
+      },
+      "type": "Writer",
+      "id": "0"
+    },
+    {
+      "attributes": {
+        "name": "Jay-Z"
+      },
+      "type": "Writer",
+      "id": "1"
+    },
+    {
+      "attributes": {
+        "name": "Rich Harrison"
+      },
+      "type": "Writer",
+      "id": "2"
+    },
+    {
+      "attributes": {
+        "name": "Eugene Record"
+      },
+      "type": "Writer",
+      "id": "3"
+    },
+    {
+      "attributes": {
+        "name": "M.I.A."
+      },
+      "type": "Writer",
+      "id": "4"
+    },
+    {
+      "attributes": {
+        "name": "Wesley “Diplo” Pentz"
+      },
+      "type": "Writer",
+      "id": "5"
+    },
+    {
+      "attributes": {
+        "name": "Topper Headon"
+      },
+      "type": "Writer",
+      "id": "6"
+    },
+    {
+      "attributes": {
+        "name": "Paul Simonon"
+      },
+      "type": "Writer",
+      "id": "7"
+    },
+    {
+      "attributes": {
+        "name": "Joe Strummer"
+      },
+      "type": "Writer",
+      "id": "8"
+    },
+    {
+      "attributes": {
+        "name": "Mick Jones"
+      },
+      "type": "Writer",
+      "id": "9"
+    },
+    {
+      "attributes": {
+        "name": "Jack White"
+      },
+      "type": "Writer",
+      "id": "10"
+    },
+    {
+      "attributes": {
+        "name": "André 3000"
+      },
+      "type": "Writer",
+      "id": "11"
+    },
+    {
+      "attributes": {
+        "name": "Norman Landsberg"
+      },
+      "type": "Writer",
+      "id": "12"
+    },
+    {
+      "attributes": {
+        "name": "William Squier"
+      },
+      "type": "Writer",
+      "id": "13"
+    },
+    {
+      "attributes": {
+        "name": "John Ventura"
+      },
+      "type": "Writer",
+      "id": "14"
+    },
+    {
+      "attributes": {
+        "name": "Fredrick Rubin"
+      },
+      "type": "Writer",
+      "id": "15"
+    },
+    {
+      "attributes": {
+        "name": "Leslie Weinstein"
+      },
+      "type": "Writer",
+      "id": "16"
+    },
+    {
+      "attributes": {
+        "name": "Felix Pappalardi"
+      },
+      "type": "Writer",
+      "id": "17"
+    },
+    {
+      "attributes": {
+        "name": "Tracy Marrow"
+      },
+      "type": "Writer",
+      "id": "18"
+    },
+    {
+      "attributes": {
+        "name": "Alphonso Henderson"
+      },
+      "type": "Writer",
+      "id": "19"
+    },
+    {
+      "attributes": {
+        "name": "Bernard Freeman"
+      },
+      "type": "Writer",
+      "id": "20"
+    },
+    {
+      "attributes": {
+        "name": "Brian Chase"
+      },
+      "type": "Writer",
+      "id": "21"
+    },
+    {
+      "attributes": {
+        "name": "Nick Zinner"
+      },
+      "type": "Writer",
+      "id": "22"
+    },
+    {
+      "attributes": {
+        "name": "Karen Lee Orzolek"
+      },
+      "type": "Writer",
+      "id": "23"
+    },
+    {
+      "attributes": {
+        "name": "Kanye West"
+      },
+      "type": "Writer",
+      "id": "24"
+    },
+    {
+      "attributes": {
+        "name": "Ryan Breen"
+      },
+      "type": "Writer",
+      "id": "25"
+    },
+    {
+      "attributes": {
+        "name": "Jeff Bhasker"
+      },
+      "type": "Writer",
+      "id": "26"
+    },
+    {
+      "attributes": {
+        "name": "Mike Dean"
+      },
+      "type": "Writer",
+      "id": "27"
+    },
+    {
+      "attributes": {
+        "name": "Emile Haynie"
+      },
+      "type": "Writer",
+      "id": "28"
+    },
+    {
+      "attributes": {
+        "name": "Malik Jones"
+      },
+      "type": "Writer",
+      "id": "29"
+    },
+    {
+      "attributes": {
+        "name": "Terrence Thornton"
+      },
+      "type": "Writer",
+      "id": "30"
+    },
+    {
+      "attributes": {
+        "name": "Adele"
+      },
+      "type": "Writer",
+      "id": "31"
+    },
+    {
+      "attributes": {
+        "name": "Paul Epworth"
+      },
+      "type": "Writer",
+      "id": "32"
+    },
+    {
+      "attributes": {
+        "name": "Joel Little"
+      },
+      "type": "Writer",
+      "id": "33"
+    },
+    {
+      "attributes": {
+        "name": "Ella Yelich-O’Connor"
+      },
+      "type": "Writer",
+      "id": "34"
+    },
+    {
+      "attributes": {
+        "name": "Julian Casablancas"
+      },
+      "type": "Writer",
+      "id": "35"
+    },
+    {
+      "attributes": {
+        "name": "Max Martin"
+      },
+      "type": "Writer",
+      "id": "36"
+    },
+    {
+      "attributes": {
+        "name": "Lukasz Gottwald"
+      },
+      "type": "Writer",
+      "id": "37"
+    },
+    {
+      "attributes": {
+        "name": "Missy Elliott"
+      },
+      "type": "Writer",
+      "id": "38"
+    },
+    {
+      "attributes": {
+        "name": "Tim Mosley"
+      },
+      "type": "Writer",
+      "id": "39"
+    },
+    {
+      "attributes": {
+        "name": "Kendrick Lamar"
+      },
+      "type": "Writer",
+      "id": "40"
+    },
+    {
+      "attributes": {
+        "name": "Pharrell Williams"
+      },
+      "type": "Writer",
+      "id": "41"
+    },
+    {
+      "attributes": {
+        "name": "Mark Spears"
+      },
+      "type": "Writer",
+      "id": "42"
+    },
+    {
+      "attributes": {
+        "name": "Cathy Dennis"
+      },
+      "type": "Writer",
+      "id": "43"
+    },
+    {
+      "attributes": {
+        "name": "Henrik Jonback"
+      },
+      "type": "Writer",
+      "id": "44"
+    },
+    {
+      "attributes": {
+        "name": "Christian Karlsson"
+      },
+      "type": "Writer",
+      "id": "45"
+    },
+    {
+      "attributes": {
+        "name": "Pontus Winnberg"
+      },
+      "type": "Writer",
+      "id": "46"
+    },
+    {
+      "attributes": {
+        "name": "Brian Burton"
+      },
+      "type": "Writer",
+      "id": "47"
+    },
+    {
+      "attributes": {
+        "name": "Thomas Callaway"
+      },
+      "type": "Writer",
+      "id": "48"
+    },
+    {
+      "attributes": {
+        "name": "Gian Piero Reverberi"
+      },
+      "type": "Writer",
+      "id": "49"
+    },
+    {
+      "attributes": {
+        "name": "Gian Franco Reverberi"
+      },
+      "type": "Writer",
+      "id": "50"
+    },
+    {
+      "attributes": {
+        "name": "Pat Mahoney"
+      },
+      "type": "Writer",
+      "id": "51"
+    },
+    {
+      "attributes": {
+        "name": "Tyler Pope"
+      },
+      "type": "Writer",
+      "id": "52"
+    },
+    {
+      "attributes": {
+        "name": "James Murphy"
+      },
+      "type": "Writer",
+      "id": "53"
+    },
+    {
+      "attributes": {
+        "name": "Melissa Elliott"
+      },
+      "type": "Writer",
+      "id": "54"
+    },
+    {
+      "attributes": {
+        "name": "Timbaland"
+      },
+      "type": "Writer",
+      "id": "55"
+    },
+    {
+      "attributes": {
+        "name": "David Bowie"
+      },
+      "type": "Writer",
+      "id": "56"
+    },
+    {
+      "attributes": {
+        "name": "Robyn"
+      },
+      "type": "Writer",
+      "id": "57"
+    },
+    {
+      "attributes": {
+        "name": "Patrik Berger"
+      },
+      "type": "Writer",
+      "id": "58"
+    },
+    {
+      "attributes": {
+        "name": "Amy Winehouse"
+      },
+      "type": "Writer",
+      "id": "59"
+    },
+    {
+      "attributes": {
+        "name": "Lady Gaga"
+      },
+      "type": "Writer",
+      "id": "60"
+    },
+    {
+      "attributes": {
+        "name": "Nadir Khayat"
+      },
+      "type": "Writer",
+      "id": "61"
+    },
+    {
+      "attributes": {
+        "name": "Alex Kapranos"
+      },
+      "type": "Writer",
+      "id": "62"
+    },
+    {
+      "attributes": {
+        "name": "Nick McCarthy"
+      },
+      "type": "Writer",
+      "id": "63"
+    },
+    {
+      "attributes": {
+        "name": "Outkast"
+      },
+      "type": "Writer",
+      "id": "64"
+    },
+    {
+      "attributes": {
+        "name": "David Sheats"
+      },
+      "type": "Writer",
+      "id": "65"
+    },
+    {
+      "attributes": {
+        "name": "Stan Watts"
+      },
+      "type": "Writer",
+      "id": "66"
+    },
+    {
+      "attributes": {
+        "name": "Richard Wagner"
+      },
+      "type": "Writer",
+      "id": "67"
+    },
+    {
+      "attributes": {
+        "name": "Shuggie Otis"
+      },
+      "type": "Writer",
+      "id": "68"
+    },
+    {
+      "attributes": {
+        "name": "Eminem"
+      },
+      "type": "Writer",
+      "id": "69"
+    },
+    {
+      "attributes": {
+        "name": "Jeffrey Bass"
+      },
+      "type": "Writer",
+      "id": "70"
+    },
+    {
+      "attributes": {
+        "name": "Luis Resto"
+      },
+      "type": "Writer",
+      "id": "71"
+    },
+    {
+      "attributes": {
+        "name": "Mark Ronson"
+      },
+      "type": "Writer",
+      "id": "72"
+    },
+    {
+      "attributes": {
+        "name": "Bruno Mars"
+      },
+      "type": "Writer",
+      "id": "73"
+    },
+    {
+      "attributes": {
+        "name": "Rudolph Taylor"
+      },
+      "type": "Writer",
+      "id": "74"
+    },
+    {
+      "attributes": {
+        "name": "Charles Wilson"
+      },
+      "type": "Writer",
+      "id": "75"
+    },
+    {
+      "attributes": {
+        "name": "Nicholas Williams"
+      },
+      "type": "Writer",
+      "id": "76"
+    },
+    {
+      "attributes": {
+        "name": "Devon Gallaspy"
+      },
+      "type": "Writer",
+      "id": "77"
+    },
+    {
+      "attributes": {
+        "name": "Robert Wilson"
+      },
+      "type": "Writer",
+      "id": "78"
+    },
+    {
+      "attributes": {
+        "name": "Ronnie Wilson"
+      },
+      "type": "Writer",
+      "id": "79"
+    },
+    {
+      "attributes": {
+        "name": "Philip Lawrence"
+      },
+      "type": "Writer",
+      "id": "80"
+    },
+    {
+      "attributes": {
+        "name": "Lonnie Simmons"
+      },
+      "type": "Writer",
+      "id": "81"
+    },
+    {
+      "attributes": {
+        "name": "Drake"
+      },
+      "type": "Writer",
+      "id": "82"
+    },
+    {
+      "attributes": {
+        "name": "Paul Jefferies"
+      },
+      "type": "Writer",
+      "id": "83"
+    },
+    {
+      "attributes": {
+        "name": "Timmy Thomas"
+      },
+      "type": "Writer",
+      "id": "84"
+    },
+    {
+      "attributes": {
+        "name": "Christopher Stewart"
+      },
+      "type": "Writer",
+      "id": "85"
+    },
+    {
+      "attributes": {
+        "name": "Kuk Harrell"
+      },
+      "type": "Writer",
+      "id": "86"
+    },
+    {
+      "attributes": {
+        "name": "Terius Nash"
+      },
+      "type": "Writer",
+      "id": "87"
+    },
+    {
+      "attributes": {
+        "name": "Taylor Swift"
+      },
+      "type": "Writer",
+      "id": "88"
+    },
+    {
+      "attributes": {
+        "name": "Liz Rose"
+      },
+      "type": "Writer",
+      "id": "89"
+    },
+    {
+      "attributes": {
+        "name": "Bob Dylan"
+      },
+      "type": "Writer",
+      "id": "90"
+    },
+    {
+      "attributes": {
+        "name": "Will Butler"
+      },
+      "type": "Writer",
+      "id": "91"
+    },
+    {
+      "attributes": {
+        "name": "Richard Reed Parry"
+      },
+      "type": "Writer",
+      "id": "92"
+    },
+    {
+      "attributes": {
+        "name": "Win Butler"
+      },
+      "type": "Writer",
+      "id": "93"
+    },
+    {
+      "attributes": {
+        "name": "Tim Kingsbury"
+      },
+      "type": "Writer",
+      "id": "94"
+    },
+    {
+      "attributes": {
+        "name": "Régine Chassagne"
+      },
+      "type": "Writer",
+      "id": "95"
+    },
+    {
+      "attributes": {
+        "name": "50 Cent"
+      },
+      "type": "Writer",
+      "id": "96"
+    },
+    {
+      "attributes": {
+        "name": "Andre Young"
+      },
+      "type": "Writer",
+      "id": "97"
+    },
+    {
+      "attributes": {
+        "name": "Mike Elizondo"
+      },
+      "type": "Writer",
+      "id": "98"
+    },
+    {
+      "attributes": {
+        "name": "Paul Lansky"
+      },
+      "type": "Writer",
+      "id": "99"
+    },
+    {
+      "attributes": {
+        "name": "Arthur Kreiger"
+      },
+      "type": "Writer",
+      "id": "100"
+    },
+    {
+      "attributes": {
+        "name": "Radiohead"
+      },
+      "type": "Writer",
+      "id": "101"
+    },
+    {
+      "attributes": {
+        "name": "Brandon Flowers"
+      },
+      "type": "Writer",
+      "id": "102"
+    },
+    {
+      "attributes": {
+        "name": "Dave Keuning"
+      },
+      "type": "Writer",
+      "id": "103"
+    },
+    {
+      "attributes": {
+        "name": "Lana Del Rey"
+      },
+      "type": "Writer",
+      "id": "104"
+    },
+    {
+      "attributes": {
+        "name": "Dan Heath"
+      },
+      "type": "Writer",
+      "id": "105"
+    },
+    {
+      "attributes": {
+        "name": "Renald Richard"
+      },
+      "type": "Writer",
+      "id": "106"
+    },
+    {
+      "attributes": {
+        "name": "Ray Charles"
+      },
+      "type": "Writer",
+      "id": "107"
+    },
+    {
+      "attributes": {
+        "name": "Patrick Leonard"
+      },
+      "type": "Writer",
+      "id": "108"
+    },
+    {
+      "attributes": {
+        "name": "Leonard Cohen"
+      },
+      "type": "Writer",
+      "id": "109"
+    },
+    {
+      "attributes": {
+        "name": "Michael Len Williams II"
+      },
+      "type": "Writer",
+      "id": "110"
+    },
+    {
+      "attributes": {
+        "name": "Khalif Brown"
+      },
+      "type": "Writer",
+      "id": "111"
+    },
+    {
+      "attributes": {
+        "name": "Asheton Hogan"
+      },
+      "type": "Writer",
+      "id": "112"
+    },
+    {
+      "attributes": {
+        "name": "Josh Homme"
+      },
+      "type": "Writer",
+      "id": "113"
+    },
+    {
+      "attributes": {
+        "name": "Mark Lanegan"
+      },
+      "type": "Writer",
+      "id": "114"
+    },
+    {
+      "attributes": {
+        "name": "U2"
+      },
+      "type": "Writer",
+      "id": "115"
+    },
+    {
+      "attributes": {
+        "name": "Trent Reznor"
+      },
+      "type": "Writer",
+      "id": "116"
+    },
+    {
+      "attributes": {
+        "name": "Ben Goldwasser"
+      },
+      "type": "Writer",
+      "id": "117"
+    },
+    {
+      "attributes": {
+        "name": "Andrew VanWyngarden"
+      },
+      "type": "Writer",
+      "id": "118"
+    },
+    {
+      "attributes": {
+        "name": "Will Berman"
+      },
+      "type": "Writer",
+      "id": "119"
+    },
+    {
+      "attributes": {
+        "name": "Solange"
+      },
+      "type": "Writer",
+      "id": "120"
+    },
+    {
+      "attributes": {
+        "name": "Dido Armstrong"
+      },
+      "type": "Writer",
+      "id": "121"
+    },
+    {
+      "attributes": {
+        "name": "Paul Herman"
+      },
+      "type": "Writer",
+      "id": "122"
+    },
+    {
+      "attributes": {
+        "name": "Justin Bieber"
+      },
+      "type": "Writer",
+      "id": "123"
+    },
+    {
+      "attributes": {
+        "name": "Justin Tranter"
+      },
+      "type": "Writer",
+      "id": "124"
+    },
+    {
+      "attributes": {
+        "name": "Sonny Moore"
+      },
+      "type": "Writer",
+      "id": "125"
+    },
+    {
+      "attributes": {
+        "name": "Julia Michaels"
+      },
+      "type": "Writer",
+      "id": "126"
+    },
+    {
+      "attributes": {
+        "name": "Michael Tucker"
+      },
+      "type": "Writer",
+      "id": "127"
+    },
+    {
+      "attributes": {
+        "name": "Justin Timberlake"
+      },
+      "type": "Writer",
+      "id": "128"
+    },
+    {
+      "attributes": {
+        "name": "Scott Storch"
+      },
+      "type": "Writer",
+      "id": "129"
+    },
+    {
+      "attributes": {
+        "name": "Timothy Mosley"
+      },
+      "type": "Writer",
+      "id": "130"
+    },
+    {
+      "attributes": {
+        "name": "Childish Gambino"
+      },
+      "type": "Writer",
+      "id": "131"
+    },
+    {
+      "attributes": {
+        "name": "Ludwig Göransson"
+      },
+      "type": "Writer",
+      "id": "132"
+    },
+    {
+      "attributes": {
+        "name": "Harry Styles"
+      },
+      "type": "Writer",
+      "id": "133"
+    },
+    {
+      "attributes": {
+        "name": "Ryan Nasci"
+      },
+      "type": "Writer",
+      "id": "134"
+    },
+    {
+      "attributes": {
+        "name": "Alex Salibian"
+      },
+      "type": "Writer",
+      "id": "135"
+    },
+    {
+      "attributes": {
+        "name": "Mitch Rowland"
+      },
+      "type": "Writer",
+      "id": "136"
+    },
+    {
+      "attributes": {
+        "name": "Tyler Johnson"
+      },
+      "type": "Writer",
+      "id": "137"
+    },
+    {
+      "attributes": {
+        "name": "Coldplay"
+      },
+      "type": "Writer",
+      "id": "138"
+    },
+    {
+      "attributes": {
+        "name": "Terius “The-Dream” Nash"
+      },
+      "type": "Writer",
+      "id": "139"
+    },
+    {
+      "attributes": {
+        "name": "Christopher “Tricky” Stewart"
+      },
+      "type": "Writer",
+      "id": "140"
+    },
+    {
+      "attributes": {
+        "name": "Thaddis Harrell"
+      },
+      "type": "Writer",
+      "id": "141"
+    },
+    {
+      "attributes": {
+        "name": "Sia Furler"
+      },
+      "type": "Writer",
+      "id": "142"
+    },
+    {
+      "attributes": {
+        "name": "Jesse Shatkin"
+      },
+      "type": "Writer",
+      "id": "143"
+    },
+    {
+      "attributes": {
+        "name": "Grimes"
+      },
+      "type": "Writer",
+      "id": "144"
+    },
+    {
+      "attributes": {
+        "name": "Jenny Lewis"
+      },
+      "type": "Writer",
+      "id": "145"
+    },
+    {
+      "attributes": {
+        "name": "Blake Sennett"
+      },
+      "type": "Writer",
+      "id": "146"
+    },
+    {
+      "attributes": {
+        "name": "Azealia Banks"
+      },
+      "type": "Writer",
+      "id": "147"
+    },
+    {
+      "attributes": {
+        "name": "Jef Martens"
+      },
+      "type": "Writer",
+      "id": "148"
+    },
+    {
+      "attributes": {
+        "name": "Philip Selway"
+      },
+      "type": "Writer",
+      "id": "149"
+    },
+    {
+      "attributes": {
+        "name": "Ed O’Brien"
+      },
+      "type": "Writer",
+      "id": "150"
+    },
+    {
+      "attributes": {
+        "name": "Jonny Greenwood"
+      },
+      "type": "Writer",
+      "id": "151"
+    },
+    {
+      "attributes": {
+        "name": "Thom Yorke"
+      },
+      "type": "Writer",
+      "id": "152"
+    },
+    {
+      "attributes": {
+        "name": "Colin Greenwood"
+      },
+      "type": "Writer",
+      "id": "153"
+    },
+    {
+      "attributes": {
+        "name": "Wayne Coyne"
+      },
+      "type": "Writer",
+      "id": "154"
+    },
+    {
+      "attributes": {
+        "name": "Dave Fridmann"
+      },
+      "type": "Writer",
+      "id": "155"
+    },
+    {
+      "attributes": {
+        "name": "Steven Drozd"
+      },
+      "type": "Writer",
+      "id": "156"
+    },
+    {
+      "attributes": {
+        "name": "Michael Ivins"
+      },
+      "type": "Writer",
+      "id": "157"
+    },
+    {
+      "attributes": {
+        "name": "Craig Cox"
+      },
+      "type": "Writer",
+      "id": "158"
+    },
+    {
+      "attributes": {
+        "name": "John Altschuler"
+      },
+      "type": "Writer",
+      "id": "159"
+    },
+    {
+      "attributes": {
+        "name": "Jeff Cox"
+      },
+      "type": "Writer",
+      "id": "160"
+    },
+    {
+      "attributes": {
+        "name": "Dave Krinsky"
+      },
+      "type": "Writer",
+      "id": "161"
+    },
+    {
+      "attributes": {
+        "name": "Cardi B"
+      },
+      "type": "Writer",
+      "id": "162"
+    },
+    {
+      "attributes": {
+        "name": "Dieuson Octave"
+      },
+      "type": "Writer",
+      "id": "163"
+    },
+    {
+      "attributes": {
+        "name": "Anthony White"
+      },
+      "type": "Writer",
+      "id": "164"
+    },
+    {
+      "attributes": {
+        "name": "Klenord Raphael"
+      },
+      "type": "Writer",
+      "id": "165"
+    },
+    {
+      "attributes": {
+        "name": "Jordan Thorpe"
+      },
+      "type": "Writer",
+      "id": "166"
+    },
+    {
+      "attributes": {
+        "name": "Haim"
+      },
+      "type": "Writer",
+      "id": "167"
+    },
+    {
+      "attributes": {
+        "name": "Madonna"
+      },
+      "type": "Writer",
+      "id": "168"
+    },
+    {
+      "attributes": {
+        "name": "Stuart Price"
+      },
+      "type": "Writer",
+      "id": "169"
+    },
+    {
+      "attributes": {
+        "name": "Björn Ulvaeus"
+      },
+      "type": "Writer",
+      "id": "170"
+    },
+    {
+      "attributes": {
+        "name": "Benny Andersson"
+      },
+      "type": "Writer",
+      "id": "171"
+    },
+    {
+      "attributes": {
+        "name": "Katy Perry"
+      },
+      "type": "Writer",
+      "id": "172"
+    },
+    {
+      "attributes": {
+        "name": "Bonnie McKee"
+      },
+      "type": "Writer",
+      "id": "173"
+    },
+    {
+      "attributes": {
+        "name": "Benny Blanco"
+      },
+      "type": "Writer",
+      "id": "174"
+    },
+    {
+      "attributes": {
+        "name": "Dr. Luke"
+      },
+      "type": "Writer",
+      "id": "175"
+    },
+    {
+      "attributes": {
+        "name": "Pete Wentz"
+      },
+      "type": "Writer",
+      "id": "176"
+    },
+    {
+      "attributes": {
+        "name": "Joe Trohman"
+      },
+      "type": "Writer",
+      "id": "177"
+    },
+    {
+      "attributes": {
+        "name": "Andy Hurley"
+      },
+      "type": "Writer",
+      "id": "178"
+    },
+    {
+      "attributes": {
+        "name": "Patrick Stump"
+      },
+      "type": "Writer",
+      "id": "179"
+    },
+    {
+      "attributes": {
+        "name": "Mike Will Made It"
+      },
+      "type": "Writer",
+      "id": "180"
+    },
+    {
+      "attributes": {
+        "name": "Calvin Harris"
+      },
+      "type": "Writer",
+      "id": "181"
+    },
+    {
+      "attributes": {
+        "name": "Nicki Minaj"
+      },
+      "type": "Writer",
+      "id": "182"
+    },
+    {
+      "attributes": {
+        "name": "Maurice Jordan"
+      },
+      "type": "Writer",
+      "id": "183"
+    },
+    {
+      "attributes": {
+        "name": "Tauheed Epps"
+      },
+      "type": "Writer",
+      "id": "184"
+    },
+    {
+      "attributes": {
+        "name": "T.I."
+      },
+      "type": "Writer",
+      "id": "185"
+    },
+    {
+      "attributes": {
+        "name": "Leroy Hutson"
+      },
+      "type": "Writer",
+      "id": "186"
+    },
+    {
+      "attributes": {
+        "name": "Billy Roberts"
+      },
+      "type": "Writer",
+      "id": "187"
+    },
+    {
+      "attributes": {
+        "name": "Aldrin Davis"
+      },
+      "type": "Writer",
+      "id": "188"
+    },
+    {
+      "attributes": {
+        "name": "Curtis Mayfield"
+      },
+      "type": "Writer",
+      "id": "189"
+    },
+    {
+      "attributes": {
+        "name": "Donny Hathaway"
+      },
+      "type": "Writer",
+      "id": "190"
+    },
+    {
+      "attributes": {
+        "name": "Gabriel W. Arillo"
+      },
+      "type": "Writer",
+      "id": "191"
+    },
+    {
+      "attributes": {
+        "name": "Eric Church"
+      },
+      "type": "Writer",
+      "id": "192"
+    },
+    {
+      "attributes": {
+        "name": "Jeff Hyde"
+      },
+      "type": "Writer",
+      "id": "193"
+    },
+    {
+      "attributes": {
+        "name": "Ryan Tyndell"
+      },
+      "type": "Writer",
+      "id": "194"
+    },
+    {
+      "attributes": {
+        "name": "Christopher Breaux"
+      },
+      "type": "Writer",
+      "id": "195"
+    },
+    {
+      "attributes": {
+        "name": "Billie Joe Armstrong"
+      },
+      "type": "Writer",
+      "id": "196"
+    },
+    {
+      "attributes": {
+        "name": "Mike Dirnt"
+      },
+      "type": "Writer",
+      "id": "197"
+    },
+    {
+      "attributes": {
+        "name": "Tré Cool"
+      },
+      "type": "Writer",
+      "id": "198"
+    },
+    {
+      "attributes": {
+        "name": "Carly Rae Jepsen"
+      },
+      "type": "Writer",
+      "id": "199"
+    },
+    {
+      "attributes": {
+        "name": "Josh Ramsay"
+      },
+      "type": "Writer",
+      "id": "200"
+    },
+    {
+      "attributes": {
+        "name": "Tavish Crowe"
+      },
+      "type": "Writer",
+      "id": "201"
+    },
+    {
+      "attributes": {
+        "name": "Quavo"
+      },
+      "type": "Writer",
+      "id": "202"
+    },
+    {
+      "attributes": {
+        "name": "Offset"
+      },
+      "type": "Writer",
+      "id": "203"
+    },
+    {
+      "attributes": {
+        "name": "Robert Mandell"
+      },
+      "type": "Writer",
+      "id": "204"
+    },
+    {
+      "attributes": {
+        "name": "Lil Uzi Vert"
+      },
+      "type": "Writer",
+      "id": "205"
+    },
+    {
+      "attributes": {
+        "name": "Leland Tyler Wayne"
+      },
+      "type": "Writer",
+      "id": "206"
+    },
+    {
+      "attributes": {
+        "name": "The Rapture"
+      },
+      "type": "Writer",
+      "id": "207"
+    },
+    {
+      "attributes": {
+        "name": "A.C. Newman"
+      },
+      "type": "Writer",
+      "id": "208"
+    },
+    {
+      "attributes": {
+        "name": "Frank Liddell"
+      },
+      "type": "Writer",
+      "id": "209"
+    },
+    {
+      "attributes": {
+        "name": "Mike Wrucke"
+      },
+      "type": "Writer",
+      "id": "210"
+    },
+    {
+      "attributes": {
+        "name": "Daft Punk"
+      },
+      "type": "Writer",
+      "id": "211"
+    },
+    {
+      "attributes": {
+        "name": "Nile Rodgers"
+      },
+      "type": "Writer",
+      "id": "212"
+    },
+    {
+      "attributes": {
+        "name": "Peter Bjorn and John"
+      },
+      "type": "Writer",
+      "id": "213"
+    },
+    {
+      "attributes": {
+        "name": "Calvin Broadus"
+      },
+      "type": "Writer",
+      "id": "214"
+    },
+    {
+      "attributes": {
+        "name": "Tim Stahl"
+      },
+      "type": "Writer",
+      "id": "215"
+    },
+    {
+      "attributes": {
+        "name": "Chad Hugo"
+      },
+      "type": "Writer",
+      "id": "216"
+    },
+    {
+      "attributes": {
+        "name": "John Guldberg"
+      },
+      "type": "Writer",
+      "id": "217"
+    },
+    {
+      "attributes": {
+        "name": "Eric Murray"
+      },
+      "type": "Writer",
+      "id": "218"
+    },
+    {
+      "attributes": {
+        "name": "Darryl Pittman"
+      },
+      "type": "Writer",
+      "id": "219"
+    },
+    {
+      "attributes": {
+        "name": "Jamal Grinnage"
+      },
+      "type": "Writer",
+      "id": "220"
+    },
+    {
+      "attributes": {
+        "name": "Gwen Stefani"
+      },
+      "type": "Writer",
+      "id": "221"
+    },
+    {
+      "attributes": {
+        "name": "Oh"
+      },
+      "type": "Writer",
+      "id": "222"
+    },
+    {
+      "attributes": {
+        "name": "Inverted World"
+      },
+      "type": "Writer",
+      "id": "223"
+    },
+    {
+      "attributes": {
+        "name": "Beck Hansen"
+      },
+      "type": "Writer",
+      "id": "224"
+    },
+    {
+      "attributes": {
+        "name": "Anthony Moore"
+      },
+      "type": "Writer",
+      "id": "225"
+    },
+    {
+      "attributes": {
+        "name": "Christopher Wallace"
+      },
+      "type": "Writer",
+      "id": "226"
+    },
+    {
+      "attributes": {
+        "name": "Kejuan Waliek Muchita"
+      },
+      "type": "Writer",
+      "id": "227"
+    },
+    {
+      "attributes": {
+        "name": "Albert Johnson"
+      },
+      "type": "Writer",
+      "id": "228"
+    },
+    {
+      "attributes": {
+        "name": "Osten Harvey"
+      },
+      "type": "Writer",
+      "id": "229"
+    },
+    {
+      "attributes": {
+        "name": "Jr."
+      },
+      "type": "Writer",
+      "id": "230"
+    },
+    {
+      "attributes": {
+        "name": "Roger Troutman"
+      },
+      "type": "Writer",
+      "id": "231"
+    },
+    {
+      "attributes": {
+        "name": "Lin-Manuel Miranda"
+      },
+      "type": "Writer",
+      "id": "232"
+    },
+    {
+      "attributes": {
+        "name": "Charlotte Aitchison"
+      },
+      "type": "Writer",
+      "id": "233"
+    },
+    {
+      "attributes": {
+        "name": "Linus Eklöw"
+      },
+      "type": "Writer",
+      "id": "234"
+    },
+    {
+      "attributes": {
+        "name": "Mariah Carey"
+      },
+      "type": "Writer",
+      "id": "235"
+    },
+    {
+      "attributes": {
+        "name": "Manuel Seal"
+      },
+      "type": "Writer",
+      "id": "236"
+    },
+    {
+      "attributes": {
+        "name": "Johntá Austin"
+      },
+      "type": "Writer",
+      "id": "237"
+    },
+    {
+      "attributes": {
+        "name": "Jermaine Dupri"
+      },
+      "type": "Writer",
+      "id": "238"
+    },
+    {
+      "attributes": {
+        "name": "Kenneth Edmonds"
+      },
+      "type": "Writer",
+      "id": "239"
+    },
+    {
+      "attributes": {
+        "name": "Bobby Womack"
+      },
+      "type": "Writer",
+      "id": "240"
+    },
+    {
+      "attributes": {
+        "name": "Patrick Moten"
+      },
+      "type": "Writer",
+      "id": "241"
+    },
+    {
+      "attributes": {
+        "name": "Sandra Sully"
+      },
+      "type": "Writer",
+      "id": "242"
+    },
+    {
+      "attributes": {
+        "name": "Darnell Bristol"
+      },
+      "type": "Writer",
+      "id": "243"
+    },
+    {
+      "attributes": {
+        "name": "Ezra Koenig"
+      },
+      "type": "Writer",
+      "id": "244"
+    },
+    {
+      "attributes": {
+        "name": "Randy Fitzsimmons"
+      },
+      "type": "Writer",
+      "id": "245"
+    },
+    {
+      "attributes": {
+        "name": "Amerie"
+      },
+      "type": "Writer",
+      "id": "246"
+    },
+    {
+      "attributes": {
+        "name": "Stanley Walden"
+      },
+      "type": "Writer",
+      "id": "247"
+    },
+    {
+      "attributes": {
+        "name": "Daddy Yankee"
+      },
+      "type": "Writer",
+      "id": "248"
+    },
+    {
+      "attributes": {
+        "name": "Poo Bear"
+      },
+      "type": "Writer",
+      "id": "249"
+    },
+    {
+      "attributes": {
+        "name": "Marty James"
+      },
+      "type": "Writer",
+      "id": "250"
+    },
+    {
+      "attributes": {
+        "name": "Luis Fonsi"
+      },
+      "type": "Writer",
+      "id": "251"
+    },
+    {
+      "attributes": {
+        "name": "Erika Ender"
+      },
+      "type": "Writer",
+      "id": "252"
+    },
+    {
+      "attributes": {
+        "name": "Parquet Courts"
+      },
+      "type": "Writer",
+      "id": "253"
+    },
+    {
+      "attributes": {
+        "name": "Matt Pelissier"
+      },
+      "type": "Writer",
+      "id": "254"
+    },
+    {
+      "attributes": {
+        "name": "Frank Iero"
+      },
+      "type": "Writer",
+      "id": "255"
+    },
+    {
+      "attributes": {
+        "name": "Ray Toro"
+      },
+      "type": "Writer",
+      "id": "256"
+    },
+    {
+      "attributes": {
+        "name": "Gerard Way"
+      },
+      "type": "Writer",
+      "id": "257"
+    },
+    {
+      "attributes": {
+        "name": "Mikey Way"
+      },
+      "type": "Writer",
+      "id": "258"
+    },
+    {
+      "attributes": {
+        "name": "Che Smith"
+      },
+      "type": "Writer",
+      "id": "259"
+    },
+    {
+      "attributes": {
+        "name": "Miri Ben-Ari"
+      },
+      "type": "Writer",
+      "id": "260"
+    },
+    {
+      "attributes": {
+        "name": "Curtis Lundy"
+      },
+      "type": "Writer",
+      "id": "261"
+    },
+    {
+      "attributes": {
+        "name": "Rob Davis"
+      },
+      "type": "Writer",
+      "id": "262"
+    },
+    {
+      "attributes": {
+        "name": "Dan Auerbach"
+      },
+      "type": "Writer",
+      "id": "263"
+    },
+    {
+      "attributes": {
+        "name": "Patrick Carney"
+      },
+      "type": "Writer",
+      "id": "264"
+    },
+    {
+      "attributes": {
+        "name": "Christian Mazzalai"
+      },
+      "type": "Writer",
+      "id": "265"
+    },
+    {
+      "attributes": {
+        "name": "Frederic Moulin"
+      },
+      "type": "Writer",
+      "id": "266"
+    },
+    {
+      "attributes": {
+        "name": "Laurent Mazzalai"
+      },
+      "type": "Writer",
+      "id": "267"
+    },
+    {
+      "attributes": {
+        "name": "Thomas Pablo Croquet"
+      },
+      "type": "Writer",
+      "id": "268"
+    },
+    {
+      "attributes": {
+        "name": "Alec O’Hanley"
+      },
+      "type": "Writer",
+      "id": "269"
+    },
+    {
+      "attributes": {
+        "name": "Molly Rankin"
+      },
+      "type": "Writer",
+      "id": "270"
+    },
+    {
+      "attributes": {
+        "name": "Pimp C"
+      },
+      "type": "Writer",
+      "id": "271"
+    },
+    {
+      "attributes": {
+        "name": "DJ Paul"
+      },
+      "type": "Writer",
+      "id": "272"
+    },
+    {
+      "attributes": {
+        "name": "Juicy"
+      },
+      "type": "Writer",
+      "id": "273"
+    },
+    {
+      "attributes": {
+        "name": "Bun B"
+      },
+      "type": "Writer",
+      "id": "274"
+    },
+    {
+      "attributes": {
+        "name": "J Willie Hutch"
+      },
+      "type": "Writer",
+      "id": "275"
+    },
+    {
+      "attributes": {
+        "name": "Big Boi"
+      },
+      "type": "Writer",
+      "id": "276"
+    },
+    {
+      "attributes": {
+        "name": "Eddie Ávila"
+      },
+      "type": "Writer",
+      "id": "277"
+    }
+  ]
+}
